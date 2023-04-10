@@ -24,3 +24,5 @@ class Dice {
 const dice = new Dice(3)
 
 console.log(dice.roll)
+
+export default Dice
